@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\bin\Debug\net6.0\forLoop.exe
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\bin\Debug\net6.0\forLoop.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\bin\Debug\net6.0\forLoop.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\bin\Debug\net6.0\forLoop.dll
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\bin\Debug\net6.0\ref\forLoop.dll
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\bin\Debug\net6.0\forLoop.pdb
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.dll
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\ref\forLoop.dll
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.pdb
+C:\Users\90542\Desktop\Pratikler Devam\forLoop\obj\Debug\net6.0\forLoop.genruntimeconfig.cache
